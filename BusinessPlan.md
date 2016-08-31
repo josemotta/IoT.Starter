@@ -1,9 +1,7 @@
-Home
+Business Plan
 ====
 
-##Business Plan
-
-Business Plan based on [How to Price Your HW Product](http://blog.upverter.com/post/121773420477 "How to Price Your HW Product ") by Alan Povall from [Product Nimbus](http://www.productnimbus.com/ "Product Nimbus"). Read first [Why the open source business model is a failure ](http://www.networkworld.com/article/2944222/opensource-subnet/why-the-open-source-business-model-is-a-failure.html "By Paul Rubens ") by Paul Rubens.
+Sample Business Plan based on [How to Price Your HW Product](https://forum.upverter.com/t/how-to-price-your-hw-product/22436 "How to Price Your HW Product") by Alan Povall. Read first [Why the open source business model is a failure ](http://www.networkworld.com/article/2944222/opensource-subnet/why-the-open-source-business-model-is-a-failure.html "By Paul Rubens ") by Paul Rubens.
 
 ###Define your startup in one sentence:
 
