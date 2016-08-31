@@ -13,7 +13,7 @@ A figura abaixo apresenta as camadas que compõe um `Produto/Projeto`. A decompo
 São relacionados inicialmente uma série de conceitos e ferramentas, com links, para os quais recomenda-se atenção prévia.
 
 - O [Sprint](http://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint "Scrum Sprint") mede a unidade de trabalho que incrementa a evolução da equipe na execução da missão;
-- Cada Sprint é composto por múltiplas tarefas ou [estórias](http://www.agilemodeling.com/artifacts/userStory.htm "Introduction to User Stories"), utilizando a técnica de [User Story Mapping](http://agileproductdesign.com/writing/how_you_slice_it.pdf "how_you_slice_it");
+- Cada Sprint é composto por múltiplas tarefas ou [estórias](http://www.agilemodeling.com/artifacts/userStory.htm "Introduction to User Stories"), utilizando a técnica de [User Story Mapping](http://jpattonassociates.com/wp-content/uploads/2015/01/how_you_slice_it.pdf");
 - As estórias podem ser reorganizadas em [mapas](http://www.agileproductdesign.com/blog/the_new_backlog.html "The new user story backlog is a map") que são atualizados automaticamente;
 - São utilizadas as ferramentas [Pivotal Tracker](https://www.pivotaltracker.com "Tracker") para gerenciar as estórias e [GitHub](https://github.com/features "GitHub") para armazenar o repositório de dados;
 - O método permite que o estado da estória [evolua à cada mudança](http://pivotallabs.com/github-service-hook-for-pivotal-tracker/ "Github service hook for Pivotal Tracker") introduzida pela equipe P&D no repositório de dados.
