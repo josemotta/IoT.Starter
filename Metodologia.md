@@ -43,7 +43,7 @@ A seguir informações sobre o workflow **GitHub Flow**, a partir de seus própr
 > So, what is [GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html "Detalhes de GitHub Flow")?
 > 
 > - Anything in the master branch is deployable
-> To work on something new, **create a descriptively named branch** off of master****;
+> To work on something new, **create a descriptively named branch** off of master;
 > - **Commit to that branch** locally and regularly push your work to the same named branch on the server;
 > - When you need feedback or help, or you think the branch is ready for merging, **open a pull request**;
 > - After someone else has reviewed and signed off on the feature, you can **merge it into master**;
