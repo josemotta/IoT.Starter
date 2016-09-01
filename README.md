@@ -22,7 +22,7 @@ Como minimizar os riscos ao se investir em IoT? Como obter retorno do projeto? C
 
 Plano de negócio
 ---
-Antes mesmo de se iniciar um plano de negócio formal, sempre haverá uma série de discussões sobre a "ideia" original. Brainstorms envolvendo os principais interessados são importantes, de forma a avaliar livremente a extensão do mercado a ser explorado pelo produto. Nessa hora, uma pesquisa sobre a existência de "ideias" semelhantes já existentes será sempre uma atitude normal e sensata, pois a concorrência pode desestimular os investidores, ao reduzir o retorno financeiro do novo produto.
+Antes mesmo de se iniciar um plano de negócio formal, sempre haverá uma série de discussões sobre a "ideia" original. Brainstorms envolvendo os principais interessados são importantes, de forma a avaliar livremente a extensão do mercado a ser explorado pelo produto. Nessa hora, uma pesquisa sobre "ideias" semelhantes já existentes será uma atitude normal e sensata, pois a concorrência pode desestimular os investidores, ao reduzir o retorno financeiro do novo produto.
 
 Supondo-se que a "ideia" passe nos primeiros questionamentos, ela ganha força e seduz cada vez mais, facilitando o convencimento de indivíduos, empresários e investidores envolvidos. Nesse momento, recomenda-se iniciar o planejamento da equipe que deverá levar adiante a iniciativa. Nesse estágio inicial, convém ouvir a opinião de especialistas, pois eles podem ser bastante úteis para identificar atalhos no caminho a ser percorrido.
 
