@@ -2,7 +2,7 @@
 
 Em todo o mundo, estima-se atualmente que há dezenas de BILHÕES de dispositivos inteligentes baseados em processadores e conectados de alguma forma à Internet, incluindo computadores de diversos tamanhos (mainframes, estações gráficas, micros desktops, laptops, notebooks), além de tablets, celulares, smart watches, pagers, etc.
 
-A tecnologia IoT que envolve a *Internet of Things*, pretende multiplicar essa quantidade de dispositivos inteligentes em muitas vezes nos próximos anos. Isso significa que chegaremos rapidamente aos TRILHÕES de dispositivos conectados à Internet, o que representa um enorme mercado que precisará ser desenvolvido pelas empresas e  profissionais da informação.
+A tecnologia IoT que envolve a *Internet of Things*, pretende dobrar essa quantidade de dispositivos inteligentes, antes de chegarmos a 2020. Isso representa um  mercado de US$ 6 trilhões que precisará ser desenvolvido pelas empresas e  profissionais da informação.
 
 A partida foi dada e inicia-se uma verdadeira guerra de cachorros grandes que tentam abocanhar uma boa fatia deste mercado. Todos querem ser o primeiro a criar um sistema operacional que possa integrar todos esses dispositivos de forma organizada e segura. O grande problema é que ninguém sabe bem como fazer, pois as especificações desse mercado não são tão claras como as do mercado de micros, em que  se faz software com telas bonitas,  interagindo com teclado e mouse. A diferença principal é que a tecnologia IoT precisará interagir diretamente com a natureza, em tempo real. São sensores de temperatura, de presença, acelerômetros, giroscópios, motores girando para frente e para trás. E a gente no meio.
 
