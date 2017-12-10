@@ -1,8 +1,8 @@
 Projeto & Desenvolvimento de Sistemas de Informação
 
-##Metodologia para equipe distribuída
+## Metodologia para equipe distribuída
 
-###Resumo Executivo
+### Resumo Executivo
 
 Este guia descreve um [método de gerenciamento de fontes ](http://en.wikipedia.org/wiki/Revision_control "Revision control") que auxilia equipes de Projeto & Desenvolvimento (P&D) envolvidas na criação e construção de Sistemas de Informação (SI). O método combina conceitos e ferramentas que permitem à equipe focar em sua missão, mesmo com participantes distribuídos geograficamente e no tempo.
 
@@ -20,7 +20,7 @@ São relacionados inicialmente uma série de conceitos e ferramentas, com links,
 - Uma combinação do [GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html "Descrição GitHub Flow") e do [Simple git branching model](https://gist.github.com/jbenet/ee6c9ac48068889b0912 "by jbenet") ordena a atualização do repositório pela equipe P&D, resolvendo conflitos inerentes ao acesso concorrente a um repositório de dados comum;
 - O [Pivotal Tracker é uma ferramenta de gerenciamento](http://www.slideshare.net/danpivotal/pivotal-tracker-overview "Pivotal Tracker Overview") que mantem a equipe focada em fazer acontecer, dentro das prioridades combinadas. Sua [utilização de forma efetiva](http://www.rixiform.com/2010/06/01/using-pivotal-tracker-effectively/ "Using Pivotal Tracker Effectively") ajuda cada membro da equipe a responder à pergunta: "Em que eu devo trabalhar a seguir?" Ajuda também a estimar prazos futuros, baseando-se no trabalho realizado pela equipe no passado.
 
-###Sprint
+### Sprint
 
 [Sprint](http://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint "Scrum Sprint") is a term used in Scrum agile project management methodology. A sprint (or iteration) is the basic unit of development, treated as a "timeboxed" effort, and restricted to a specific duration. The duration is fixed in advance for each sprint and is normally between one week and one month, although two weeks is typical.
 
@@ -28,7 +28,7 @@ Each sprint is started by a planning meeting, where the tasks for the sprint are
 
 ![Sprint](http://i.imgur.com/dwIhZ0h.png)
 
-###Branching Model
+### Branching Model
 
 Como veremos adiante, cada mudança inicia com o repositório sendo replicado. Através de um `branch-de-mudança`, é criada uma área privativa no repositório para se armazenar a mudança. Isto permite que os membros da equipe trabalhem sem interferência mútua. O `branch-master` é preservado até que um membro da equipe submeta um `branch-de-mudança` para revisão e aprovação. Neste momento, um membro `revisor` da equipe deverá auditar o trabalho realizado e realizar o merge do `branch-de-mudança` com o `branch-master`.
 
@@ -36,7 +36,7 @@ Com isso, as contribuições publicadas no `branch-de-mudança` são propagadas 
 
 O método utiliza o [GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html "Descrição GitHub Flow") para ordenar a atualização do repositório pela equipe de P&D. O método também foi influenciado pelas operações de `git rebase` publicadas em [A simple git branching model](https://gist.github.com/jbenet/ee6c9ac48068889b0912 "by jbenet").
 
-###GitHub Flow
+### GitHub Flow
 
 A seguir informações sobre o workflow **GitHub Flow**, a partir de seus próprios criadores.
 
@@ -57,7 +57,7 @@ A seguir informações sobre o workflow **GitHub Flow**, a partir de seus própr
 > - Pull Requests work branch to branch: No one has a fork of github/github. We make Pull Requests in the same repository by opening Pull Requests for branches.
 > - A Pull Request doesn't have to be merged: Pull Requests are easy to make and a great way to get feedback and track progress on a branch. But some ideas don't make it. It's okay to close a Pull Request without merging; we do it all the time.
 
-###Story
+### Story
 
 Cada estória deve se enquadrar no formato:
 
@@ -74,7 +74,7 @@ Os estados de uma estória são listados a seguir, com uma descrição sucinta:
 > - **accepted:** quando as alterações são aceitas;
 > - **rejected:** em caso de rejeição depois de publicadas.
 
-###Workflow da mudança
+### Workflow da mudança
 
 O diagrama abaixo resume os passos necessários para se efetuar uma mudança:
 
@@ -136,7 +136,7 @@ O diagrama abaixo resume os passos necessários para se efetuar uma mudança:
 
 - **Aceitar/rejeitar as alterações no projeto.** Por final, quando a estória for auditada no staging server ela poderá ser aceita para publicação final no site de produção. Em ambos os casos (estória aceita/rejeitada), o branch `change-name` correspondente deverá ser removido ao final do ciclo da mudança.
 
-##Sessão exemplo
+## Sessão exemplo
 
 No exemplo abaixo, inicia-se uma sessão atualizando o `master local`, a partir do `origin`, ou seja, o repositório   git@github.com:trendnet/lab.git na Internet. Em seguida, nos deslocamos para o `branch news1` com o comando `git checkout news1` e verificamos que o mesmo está sincronizado com o repositório da Internet.
 
@@ -146,7 +146,7 @@ O comando `git push origin news1` atualiza o `branch news1` na Internet. Vamos a
 
 ![Sessão exemplo](http://i.imgur.com/opXkMbd.png)
 
-##Setup
+## Setup
 
 Passos iniciais para se utilizar este método:
 
@@ -158,7 +158,7 @@ Passos iniciais para se utilizar este método:
 - treinar equipe P&D nas ferramentas usadas no método;
 - iniciar o processo, seguindo-se o workflow do projeto.
 
-###Integração Github com Pivotal Tracker
+### Integração Github com Pivotal Tracker
 
 > [SCM Post-Commit Hook Overview](http://www.pivotaltracker.com/help/api?version=v3#scm_post_commit "SCM Post-Commit Hook Overview")
 > 
