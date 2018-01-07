@@ -2,6 +2,8 @@ Projeto & Desenvolvimento de Sistemas de Informação
 
 ## Metodologia para equipe distribuída
 
+O que é a metodologia agile? Veja esse [post](https://www.infoworld.com/article/3237508/agile-development/what-is-agile-methodology-modern-software-development-explained.html) de Isaac Sacolick que explica o desenvolvimento de software moderno.
+
 ### Resumo Executivo
 
 Este guia descreve um [método de gerenciamento de fontes ](http://en.wikipedia.org/wiki/Revision_control "Revision control") que auxilia equipes de Projeto & Desenvolvimento (P&D) envolvidas na criação e construção de Sistemas de Informação (SI). O método combina conceitos e ferramentas que permitem à equipe focar em sua missão, mesmo com participantes distribuídos geograficamente e no tempo.
